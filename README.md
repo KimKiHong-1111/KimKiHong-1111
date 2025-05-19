@@ -3,9 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KimKiHong-1111&fontSize=50&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <b>매일매일 잔디를 심자!🌱</b>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KimKiHong-1111&show_icons=true&theme=tokyonight" alt="Anurag's github stats" />
@@ -38,4 +35,8 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimKiHong-1111&theme=tokyo-night" width="90%"/>
+</p>
+
+<p align="center">
+  <b>매일매일 잔디를 심자!🌱</b>
 </p>
