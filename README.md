@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Anurag's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KimKiHong-1111&show_icons=true&theme=tokyonight" alt="Anurag's github stats" />
 </p>
 
 ---
@@ -37,9 +37,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" width="90%"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/매일매일-잔디를%20심자-6DB33F?style=for-the-badge"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimKiHong-1111&theme=tokyo-night" width="90%"/>
 </p>
